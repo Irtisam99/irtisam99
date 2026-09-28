@@ -285,3 +285,49 @@ I'm constantly experimenting with new technologies, improving my problem-solving
 </p>
 
 <br>
+<!-- ═══════════════════════════════════════════════ -->
+<!--                10 • CONNECT                    -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=1200&color=6EA8FE&center=true&vCenter=true&width=300&lines=%E2%9C%A6+LET'S+CONNECT+%E2%9C%A6" />
+</p>
+
+<br>
+
+<p align="center">
+
+  <a href="https://linkedin.com/in/irtisamalavi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Irtisam99">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+</p>
+
+<br>
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  11 • FOOTER                   -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<br>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2800&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=%E2%80%A2+Build+with+curiosity.+Design+with+purpose.+%E2%80%A2"
+    alt="Footer"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0066D6,50:7C3AED,100:00C6FF&height=100&section=footer"
+    width="100%"
+  />
+</p>
